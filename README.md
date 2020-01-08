@@ -1,6 +1,6 @@
 # IdentityServer4.UsernamePassword.Authentication
 
-An example to use Identity Server 4 library for the authentication of the users.
+An example to use Identity Server 4 library (https://identityserver.io/) for the authentication of the users.
 In this example users informations are retrieved from an external resource like a database.
 
 The program is composed from a WebApi service, an IdentityService and a console Client.
